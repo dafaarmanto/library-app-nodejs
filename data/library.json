@@ -1,0 +1,42 @@
+[
+  {
+    "isbn": "e7b7b9f7-e2e0-4c9f-8f6f-d7a2d29e5950",
+    "title": "Atomic Habits",
+    "author": "James Clear",
+    "status": "BOOK BORROWED",
+    "borrowedBy": "Tony Stark",
+    "lastBorrowedBy": "None"
+  },
+  {
+    "isbn": "7e5b858f-12f7-4822-afd1-d4a33df558aa",
+    "title": "Developer Roadmap",
+    "author": "Kamran Ahmed",
+    "status": "BOOK BORROWED",
+    "borrowedBy": "Harry",
+    "lastBorrowedBy": "Steve Rogers"
+  },
+  {
+    "isbn": "8971f624-4b75-49da-9328-012ef6417e61",
+    "title": "Educated",
+    "author": "Tara Westover",
+    "status": "BOOK AVAILABLE",
+    "borrowedBy": "None",
+    "lastBorrowedBy": "None"
+  },
+  {
+    "isbn": "959a52a8-7f2e-4e21-8302-c5d2f78a59f7",
+    "title": "Normal People",
+    "author": "Sally Rooney",
+    "status": "BOOK AVAILABLE",
+    "borrowedBy": "None",
+    "lastBorrowedBy": "None"
+  },
+  {
+    "isbn": "31f7fa2c-a55b-44c7-8811-fc8164edb00f",
+    "title": "Ruby on Rails",
+    "author": "Tim Cook",
+    "status": "BOOK BORROWED",
+    "borrowedBy": "Harry",
+    "lastBorrowedBy": "Rocky"
+  }
+]
